@@ -1,0 +1,26 @@
+
+.main {
+    max-width: 500px; 
+    padding: 32px;
+    margin: 30px auto 0 auto;
+    border: 2px solid rgb(137, 136, 136);
+    display: block 
+   
+  }
+  .image img{
+    width: 432px;
+  }
+  .content{
+    font-Size:20px
+  }
+ 
+  .name-product{
+    font-size: 25px;
+  }
+  .date{
+    margin-top: 20px;
+  }
+
+.content{
+ margin-top: 30px;
+}

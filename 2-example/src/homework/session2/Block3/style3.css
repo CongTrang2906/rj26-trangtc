@@ -1,0 +1,31 @@
+.flex-container {
+    display: flex;
+    background-color: white;
+    text-align: center;
+}
+
+.flex-container>div {
+    color: white;
+    width: 370px;
+    height: 400px;
+    margin: 7px;
+    font-size: 30px;
+   
+}
+
+.fa-brands {
+    text-align: left;
+    padding-left: 10%;
+    padding-top: 20px;
+    padding-right: 800px;
+    font-size: 70px;
+}
+
+
+.content{
+    text-align: left;
+    line-height: 1;
+    padding-left: 10%;
+    /* padding-top: 20%; */
+    margin-top: 180px;
+}
