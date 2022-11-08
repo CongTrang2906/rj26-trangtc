@@ -3,13 +3,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "./Style3.css";
 
 
-type Props = {
-  image:string
-  title:string
-  product:string
-  date:string
-
-}
+type Props = {}
 
 type State = {}
 
@@ -20,12 +14,12 @@ class BaiTap3 extends Component<Props, State> {
     return (
       <div className='main'>
         <div className="image">
-          <img src={this.props.image} alt="" />
+          <img src="https://m.economictimes.com/thumb/msid-89089588,width-1200,height-900,resizemode-4,imgsize-85734/it-sector.jpg" alt="" />
         </div>
         <div className="content">
-          <p className="title">{this.props.title}</p>
-          <h1 className="name-product">{this.props.product}</h1>  
-          <p className='date'>{this.props.date}</p>
+          <p className="title">Technology</p>
+          <h1 className="name-product">Harman Kadon Onyx Studio Mini, Reviews & Experiences</h1>  
+          <p className='date'>Fe 21, 2021 by drfurion</p>
         </div>
       </div>
     )
