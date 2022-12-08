@@ -1,0 +1,17 @@
+.body1 {
+    max-width: 720px; 
+    padding: 32px;
+    margin: 36px auto 0 auto;
+    background-color: rgb(183, 179, 179);
+    border-radius: 8px;
+   
+    
+}
+.form-control {
+    width: 100%;
+    padding: 10px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid rgb(191, 168, 168);
+    border-radius: 4px;
+}

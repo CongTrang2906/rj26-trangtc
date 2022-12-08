@@ -12,6 +12,15 @@ import Block3 from "./homework/session2/Block3/Block3";
 import Block6 from "./homework/session2/Block6/Block6";
 import Block2 from "./homework/session2/Block2/Block2";
 import LikeBtn from "./features/LikeBtn";
+// import RegisterF from "./homework/session6/RegisterF";
+// import FormF from "./homework/session6/FormF";
+import ListUser from "./homework/session7/ListUser";
+import FormUser from "./homework/session7/FormUser";
+import DetailUser from "./homework/session7/DetailUser";
+import RouterAll from "./homework/session8/RouterAll";
+import ReduxTS from "./homework/session9/ReduxTS";
+import RouterAll1 from "./end/router/RouterAll";
+import Login from "./end/project/Login";
 
 
 
@@ -44,7 +53,15 @@ function App() {
     <div>    
          {/* <ItemUserClass/> */}
          {/* <LikeBtn/> */}
-        
+         {/* <RegisterF/> */}
+         {/* <FormF/> */}
+         {/* <ListUser/> */}
+         {/* <FormUser/> */}
+         {/* <DetailUser/> */}
+
+         <RouterAll1/>
+         {/* <Login/> */}
+         {/* <ReduxTS/> */}
 
              
             {/* <BaiTap1/> */}
